@@ -5,42 +5,45 @@ if next_positio == "1":
     print(". . .")
     print(". . .")
 
-if next_positio == "2":
+if next_position == "1":
+    print ("CANT DO THE MOVE")
+
+elif next_positio == "2":
     print(". x .")
     print(". . .")
     print(". . .")
 
-if next_positio == "3":
+elif next_positio == "3":
     print(". . x")
     print(". . .")
     print(". . .")
 
-if next_positio == "4":
+elif next_positio == "4":
     print(". . .")
     print("x . .")
     print(". . .")
 
-if next_positio == "5":
+elif next_positio == "5":
     print(". . .")
     print(". x .")
     print(". . .")
 
-if next_positio == "6":
+elif next_positio == "6":
     print(". . .")
     print(". . x")
     print(". . .")
 
-if next_positio == "7":
+elif next_positio == "7":
     print(". . .")
     print(". . .")
     print("x . .")
 
-if next_positio == "8":
+elif next_positio == "8":
     print(". . .")
     print(". . .")
     print(". x .")
 
-if next_positio == "9":
+elif next_positio == "9":
     print(". . .")
     print(". . .")
     print(". . x")
